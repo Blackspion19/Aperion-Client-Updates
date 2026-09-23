@@ -1,9 +1,9 @@
 version: 1.2.1
 path: https://github.com/Blackspion19/Aperion-Client-Updates/releases/download/v1.2.1/AperionClientSetup-1.2.1.exe
-sha512: IrkvhSZHxV50RzUgZp5bjN/8rFSoBFPFU3PZw1a9R+pd0us+4+Fwu+lEF5+xCMFmHsTKLK7owjhFR4e/mqcn7A==
-releaseDate: 2026-09-23T15:49:39.398432300Z
-signature: Ag+IGM4s7PPUGj6nggDLBEJM0azSFveDFkXql8bBPTaJ5644VmPMYZ6RUFzR+LDcBVDyQUW6BaGIy/IwB/6UCg==
+sha512: 6oV+0I2qvswNkeRnxwYLuLhEx5esnwKCvB81MdZWl6QG3ESoClE66Gd/n97z20m1xbmtgTfkUKd5ky+K6VZpKQ==
+releaseDate: 2026-09-23T15:58:49.075584500Z
+signature: sdUXYh/MAO1ZpSuVHOg0Sd5kGN4EC1bSqVmnyR0f25y1Yj5pFdw9spsjZUkUNNR5NZB2PBpca3v4FfM0iWJhDw==
 files:
   - url: https://github.com/Blackspion19/Aperion-Client-Updates/releases/download/v1.2.1/AperionClientSetup-1.2.1.exe
-    sha512: IrkvhSZHxV50RzUgZp5bjN/8rFSoBFPFU3PZw1a9R+pd0us+4+Fwu+lEF5+xCMFmHsTKLK7owjhFR4e/mqcn7A==
-    size: 86038186
+    sha512: 6oV+0I2qvswNkeRnxwYLuLhEx5esnwKCvB81MdZWl6QG3ESoClE66Gd/n97z20m1xbmtgTfkUKd5ky+K6VZpKQ==
+    size: 86037761
