@@ -1,0 +1,9 @@
+{
+	"extends": "@aperion/tooling-config/typescript/vue.json",
+	"compilerOptions": {
+		"paths": {
+			"#ui/*": ["./src/*"],
+			"@aperion/api-client": ["../api-client/src/index.ts"]
+		}
+	}
+}

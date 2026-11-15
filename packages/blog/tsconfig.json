@@ -1,0 +1,3 @@
+{
+	"extends": "@aperion/tooling-config/typescript/base.json"
+}
